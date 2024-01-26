@@ -1,5 +1,5 @@
 #  <center>Hello! I'm Roberto 👋</center>
-##  <center>Data Analyst 📈</center>
+##  <center>Aspiring Data Analyst 📈</center>
 Welcome to my GitHub page, here you will find my latest projects and what I am working on.
 
 ### 🚀 About me
